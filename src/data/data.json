@@ -1,21 +1,19 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Vidriocentro Ferretería La bibis :3",
+    "paragraph": "La bibis"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Nuestros fundadores, la familia Bibis, llevaban en el negocio de la ferretería por más de 8 años, por esta razón entendían los problemas que se tenían con los proveedores actuales que existían en el mercado. Por ello, en 2015 nace FERROBIBIS, una ferretería mayorista y distribuidores directo de fábrica de las principales marcas del ramo, dedicados a impulsar el crecimiento y desarrollo de ferreterías, empresas y profesionales mediante el suministro de materiales, asesoría y servicio. En FERROBIBIS encontrará de 3 a 5 veces más surtido que la competencia mayorista, con los precios mas competitivos del mercado, para satisfacer sus necesidades de equipos de herramientas, grifería y tuberías, iluminación y accesorios eléctricos, cerrajería, pintura, y todo en ferretería.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Ser la mejor opción para nuestros clientes a nivel nacional.",
+      "Vender cada vez a mayores volúmenes y que se transfieran los beneficios a nuestros clientes a modo de mejores precios.",
+      "Exceder los estándares de calidad, confiabilidad y servicio."
+      
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Sembrar en la sociedad en que participamos los valores que profesamos y así retribuirles con beneficios.",
+      "Proveer los artículos de la forma más eficaz y ágil en el mercado, para que todo sea entregado de oportuna."
     ]
   },
   "Gallery": [
@@ -68,33 +66,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Venta de vidrios",
+      "text": "Ofrecemos una amplia selección de vidrio, desde ventanas y puertas hasta mamparas de ducha."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Venta de espejos",
+      "text": "Ofrecemos una amplia selección de espejos desde espejos reflectores hasta espejos decorativos."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Corte y enmarcación de vidrio",
+      "text": "Cortamos y enmarcamos vidrios a medida para cualquier proyecto."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Instalación de vidrios",
+      "text": "Instalamos vidrios y espejos en ventanas, puertas, mamparas de ducha y otros lugares."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Venta de ferretería",
+      "text": "Ofrecemos una amplia selección de productos de ferretería, como clavos, herramientas y otros materiales de construcción"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Servicios de reparación",
+      "text": "Ofrecemos servicios de reparación de vidrios y otros productos de construcción."
     }
   ],
   "Testimonials": [
@@ -152,8 +150,8 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
+    "address": "AV. Tupac Amaru S/N ",
+    "phone": "+51 989 845 505",
     "email": "info@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
@@ -162,23 +160,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Vidrios de seguridad",
+      "text": "Los vidrios de seguridad son diseñados para resistir impactos y roturas."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Vidrios templados",
+      "text": "Los vidrios templados son más resistentes que los vidrios tradicionales."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Vidrios reflectantes",
+      "text": "Los vidrios reflectantes ayudan a reducir el calor y el brillo."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Vidrios polarizados",
+      "text": "Los vidrios polarizados reducen el deslumbramiento."
     }
   ]
 }
